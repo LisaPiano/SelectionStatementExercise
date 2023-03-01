@@ -1,0 +1,15 @@
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\bin\Debug\net6.0\SelectionStatementsNew.exe
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\bin\Debug\net6.0\SelectionStatementsNew.deps.json
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\bin\Debug\net6.0\SelectionStatementsNew.runtimeconfig.json
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\bin\Debug\net6.0\SelectionStatementsNew.dll
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\bin\Debug\net6.0\SelectionStatementsNew.pdb
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\SelectionStatementsNew.csproj.AssemblyReference.cache
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\SelectionStatementsNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\SelectionStatementsNew.AssemblyInfoInputs.cache
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\SelectionStatementsNew.AssemblyInfo.cs
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\SelectionStatementsNew.csproj.CoreCompileInputs.cache
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\SelectionStatementsNew.dll
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\refint\SelectionStatementsNew.dll
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\SelectionStatementsNew.pdb
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\SelectionStatementsNew.genruntimeconfig.cache
+C:\repos\SelectionStatementsNew\SelectionStatementsNew\obj\Debug\net6.0\ref\SelectionStatementsNew.dll
