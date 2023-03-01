@@ -14,7 +14,7 @@
 
 
 
-            Console.WriteLine("Hello! It is time to play a guessing game!");
+            Console.WriteLine("Hello! It is time to play a cool guessing game!");
 
 
 
